@@ -94,6 +94,8 @@ http://localhost:9000/ALLproduct
   "size": "small",
   "id": 1
 }
+[![Watch the video](https://www.linkedin.com/posts/kishan-jadav-7b17382b6_nodejs-expressjs-postman-activity-7212014732759756800-RzsJ?utm_source=share&utm_medium=member_desktop)
+
 
 ```
 API Endpoints
